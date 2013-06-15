@@ -1,0 +1,12 @@
+﻿Name: Lombiq Security
+AntiForgery: enabled
+Author: Lombiq
+Website: http://lombiqsecurity.codeplex.com
+Version: 1.0
+OrchardVersion: 1.7
+Description: Provides enhanced security features.
+Features:
+    Lombiq.Security:
+		Name: Lombiq Security
+        Description: Provides enhanced security features.
+		Category: Security

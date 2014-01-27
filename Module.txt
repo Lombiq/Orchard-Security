@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: Lombiq
 Website: http://lombiqsecurity.codeplex.com
 Version: 1.0
-OrchardVersion: 1.7
+OrchardVersion: 1.8
 Description: Provides enhanced security features.
 Features:
     Lombiq.Security:

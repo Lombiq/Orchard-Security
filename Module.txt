@@ -1,7 +1,7 @@
 ﻿Name: Lombiq Security
 AntiForgery: enabled
 Author: Lombiq
-Website: http://lombiqsecurity.codeplex.com
+Website: https://github.com/Lombiq/Orchard-Security
 Version: 1.0
 OrchardVersion: 1.8
 Description: Provides enhanced security features.

@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: Lombiq
 Website: https://github.com/Lombiq/Orchard-Security
 Version: 1.0
-OrchardVersion: 1.9.3
+OrchardVersion: 1.10
 Description: Provides enhanced security features.
 Features:
     Lombiq.Security:

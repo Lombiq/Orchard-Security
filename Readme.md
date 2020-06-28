@@ -1,17 +1,14 @@
-# Lombiq Security Orchard module Readme
+# Lombiq Security Orchard module
 
 
 
-## Project Description
+## About
 
 An Orchard module to enhance security.
 
-The module's source is available in two public source repositories, automatically mirrored in both directions with [Git-hg Mirror](https://githgmirror.com):
 
-- [https://bitbucket.org/Lombiq/orchard-security](https://bitbucket.org/Lombiq/orchard-security) (Mercurial repository)
-- [https://github.com/Lombiq/Orchard-Security](https://github.com/Lombiq/Orchard-Security) (Git repository)
+## Contributing and support
 
-Bug reports, feature requests and comments are warmly welcome, **please do so via GitHub**.
-Feel free to send pull requests too, no matter which source repository you choose for this purpose.
+Bug reports, feature requests, comments, questions, code contributions, and love letters are warmly welcome, please do so via GitHub issues and pull requests. Please adhere to our [open-source guidelines](https://lombiq.com/open-source-guidelines) while doing so.
 
-This project is developed by [Lombiq Technologies Ltd](http://lombiq.com/). Commercial-grade support is available through Lombiq.
+This project is developed by [Lombiq Technologies](https://lombiq.com/). Commercial-grade support is available through Lombiq.
